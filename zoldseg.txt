@@ -1,0 +1,9 @@
+Azonosító;név;mennyiség (kg);egységár;telephely
+1;pasztinák;150;850;Hatvan
+2;rebarbara;124;780;Szeged
+3;pasztinák;98;800;Szolnok
+4;zeller;170;890;Szolnok
+5;padlizsán;89;740;Szeged
+6;kelbimbó;132;670;Szolnok
+7;paraj;147;720;Hatvan
+8;paraj;120;720;Szolnok
